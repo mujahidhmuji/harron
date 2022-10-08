@@ -1,0 +1,11 @@
+version: 1.0
+Resources:
+
+  - TargetService:
+      Type: AWS::ECS::Service
+      Properties:
+        TaskDefinition: "arn:aws:ecs:us-west-2:860061945305:task-definition/lib-eureka-server:1"
+        LoadBalancerInfo:
+          ContainerName: "lib-eureka-cnt"
+          ContainerPort: "8761"
+        PlatformVersion: "LATEST"

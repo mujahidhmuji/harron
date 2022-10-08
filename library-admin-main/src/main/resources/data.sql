@@ -1,0 +1,5 @@
+insert into admin (admin_id, admin_name, email, password, dob, phone_number, address) values(9001, 'admin1', 'admin1@gmail.com', 'admin11', '1996-02-21', '868212121', '1st Street, Chennai');
+insert into admin (admin_id, admin_name, email, password, dob, phone_number, address) values(9002, 'admin2', 'admin2@gmail.com', 'admin22', '1992-04-01', '868212123', '2st Street, Chennai');
+insert into admin (admin_id, admin_name, email, password, dob, phone_number, address) values(9003, 'admin3', 'admin3@gmail.com', 'admin33', '1990-11-14', '868212125', '3rd Street, Chennai');
+insert into admin (admin_id, admin_name, email, password, dob, phone_number, address) values(9004, 'admin4', 'admin4@gmail.com', 'admin44', '1989-01-01', '868212127', '4th Street, Chennai');
+insert into admin (admin_id, admin_name, email, password, dob, phone_number, address) values(9005, 'admin5', 'admin5@gmail.com', 'admin55', '1991-05-18', '868212129', '5th Street, Chennai');

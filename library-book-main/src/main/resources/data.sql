@@ -1,0 +1,16 @@
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20001, 'Head First Java', 'Kathy Sierr', 3, '2019-8-16', 201, 30, 28);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20002, 'Spring in Action', 'Craig Walls', 2, '2028-11-17', 333, 25, 24);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20003, 'Effective Java', 'Joshua', 1, '2018-8-16', 201, 30, 29);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20004, 'Cloud Native Java', 'Kenny Bastand', 2, '2020-01-17', 333, 30, 29);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20005, 'Thinking in Java', 'Bruce', 7, '2016-8-16', 201, 30, 29);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20006, 'Learning Spring Boot', 'Craig Walls', 2, '2016-01-17', 333, 40, 40);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20007, 'Core Java', 'Kathy', 5, '2019-8-16', 201, 30, 30);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20008, 'A smart way to Learn Java Script', 'Mark Myers', 2, '2016-01-17', 333, 20, 20);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20009, 'Java 8 in Action', 'Herbert', 3, '2019-12-16', 201, 30, 30);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20010, 'Head First JavaScript', 'Elisabeth', 2, '2016-01-17', 333, 17, 17);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20011, 'Learn Java in Oneday', 'Jamie', 5, '2020-12-16', 201, 30, 30);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20012, 'Eloquent JavaScript', 'Marijn', 2, '2016-01-17', 333, 15, 15);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20013, 'Java Puzzlers', 'Joshua', 3, '2019-8-16', 201, 30, 30);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20014, 'Secret of JavaScript', 'John Resig', 2, '2016-01-17', 333, 20, 20);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20015, 'Modern Java', 'Alan Mycroft', 6, '2022-02-16', 201, 30, 30);
+insert into book (book_id, book_name, author, edition, published_date, pages, total_copies, available_copies) values (20016, 'Pro Angular 9', 'Adam Freeman', 4, '2020-01-17', 333, 20, 20);

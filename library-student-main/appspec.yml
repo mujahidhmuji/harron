@@ -1,0 +1,11 @@
+version: 1.0
+Resources:
+
+  - TargetService:
+      Type: AWS::ECS::Service
+      Properties:
+        TaskDefinition: "arn:aws:ecs:us-west-2:860061945305:task-definition/lib-student-ser:3"
+        LoadBalancerInfo:
+          ContainerName: "lib-student-cont"
+          ContainerPort: "9100"
+        PlatformVersion: "LATEST"

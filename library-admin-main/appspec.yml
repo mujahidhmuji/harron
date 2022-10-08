@@ -1,0 +1,11 @@
+version: 1.0
+Resources:
+
+  - TargetService:
+      Type: AWS::ECS::Service
+      Properties:
+        TaskDefinition: "arn:aws:ecs:us-west-2:860061945305:task-definition/lib-admin-ser:1"
+        LoadBalancerInfo:
+          ContainerName: "lib-admin-cont"
+          ContainerPort: "9300"
+        PlatformVersion: "LATEST"
